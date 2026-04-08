@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-This project is a simple **LangChain-based application** that takes a user input (topic) and generates a **short, clean 3-line explanation** using an LLM.
+This project is a simple *LangChain-based application* that takes a user input (topic) and generates a **short, clean 3-line explanation** using an LLM.
 
 It demonstrates the use of:
 
